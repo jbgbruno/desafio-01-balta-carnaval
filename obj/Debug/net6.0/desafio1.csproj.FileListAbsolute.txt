@@ -1,0 +1,15 @@
+C:\projetos\baltaio\desafios-carnaval\desafio1\bin\Debug\net6.0\desafio1.exe
+C:\projetos\baltaio\desafios-carnaval\desafio1\bin\Debug\net6.0\desafio1.deps.json
+C:\projetos\baltaio\desafios-carnaval\desafio1\bin\Debug\net6.0\desafio1.runtimeconfig.json
+C:\projetos\baltaio\desafios-carnaval\desafio1\bin\Debug\net6.0\desafio1.dll
+C:\projetos\baltaio\desafios-carnaval\desafio1\bin\Debug\net6.0\desafio1.pdb
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.csproj.AssemblyReference.cache
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.AssemblyInfoInputs.cache
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.AssemblyInfo.cs
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.csproj.CoreCompileInputs.cache
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.dll
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\refint\desafio1.dll
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.pdb
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\desafio1.genruntimeconfig.cache
+C:\projetos\baltaio\desafios-carnaval\desafio1\obj\Debug\net6.0\ref\desafio1.dll
